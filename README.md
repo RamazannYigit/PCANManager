@@ -3,8 +3,17 @@
 
 This project implements a PCAN integrated application that loads and analyzes a DBC (Database CAN) file using the Qt framework. The application utilizes CAN bus communication for real-time data exchange with the vehicle's systems.
 
+<div style="display: flex; justify-contect: space-between;">
+   <img src="Photo's/1.png" alt="1.png" width="500" />
+</div>
+
 ## Project Overview
 The PCANDbc application provides a sophisticated interface for monitoring and controlling vehicle systems. It employs PCAN (Peak CAN) hardware for bidirectional communication with the car's CAN bus, enabling the real-time acquisition and control of various parameters.
+
+<div style="display: flex; justify-content: space-between;">
+   <img src="Photo's/3.png" alt="3.png" width="500" />
+   <img src="Photo's/4.png" alt="4.png" width="500" />
+</div>
 
 ## Features
 - Real-time CAN message analysis  
@@ -12,7 +21,12 @@ The PCANDbc application provides a sophisticated interface for monitoring and co
 - Signal filtering and management  
 - Graphical data visualization  
 - User-friendly interface design  
-- Seamless integration with PCAN hardware  
+- Seamless integration with PCAN hardware
+
+<div style="display: flex; justify-content: space-between;">
+   <img src="Photo's/7.png" alt="7.png" width="350" />
+   <img src="Photo's/9.png" alt="9.png" width="350" />
+   <img src="Photo's/10.png" alt="10.png" width="350" />
 
 ## Technical Details
 
