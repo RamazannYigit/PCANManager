@@ -5,6 +5,7 @@ Bu proje, Qt çerçevesini kullanarak bir DBC (Database CAN) dosyasını yükley
 
 <div style="display: flex; justify-content: space-between;">
    <img src="Photo's/1.png" alt="1.png" width="500" />
+</div>
 
 ## Proje Genel Bakışı
 PCANDbc uygulaması, araç sistemlerinin izlenmesi ve kontrol edilmesi için sofistike bir arayüz sunar. Uygulama, PCAN (Peak CAN) donanımını kullanarak aracın CAN bus’ı ile çift yönlü iletişim sağlar.
@@ -26,6 +27,7 @@ PCANDbc uygulaması, araç sistemlerinin izlenmesi ve kontrol edilmesi için sof
    <img src="Photo's/7.png" alt="7.png" width="325" />
    <img src="Photo's/9.png" alt="9.png" width="325" />
    <img src="Photo's/10.png" alt="10.png" width="325" />
+</div>
 
 ## Teknik Detaylar
 
