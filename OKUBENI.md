@@ -3,8 +3,16 @@
 
 Bu proje, Qt çerçevesini kullanarak bir DBC (Database CAN) dosyasını yükleyip analiz eden bir PCAN entegre uygulamasını içerir. Uygulama, araç sistemleri ile gerçek zamanlı veri alışverişi için CAN bus iletişimini kullanır.
 
+<div style="display: flex; justify-content: space-between;">
+   <img src="Photo's/1.png" alt="1.png" width="500" />
+
 ## Proje Genel Bakışı
 PCANDbc uygulaması, araç sistemlerinin izlenmesi ve kontrol edilmesi için sofistike bir arayüz sunar. Uygulama, PCAN (Peak CAN) donanımını kullanarak aracın CAN bus’ı ile çift yönlü iletişim sağlar.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="Photo's/3.png" alt="3.png" width="500" />
+    <img src="Photo's/4.png" alt="4.png" width="500" />
+</div>
 
 ## Özellikler
 - Gerçek zamanlı CAN mesaj analizi  
@@ -12,7 +20,12 @@ PCANDbc uygulaması, araç sistemlerinin izlenmesi ve kontrol edilmesi için sof
 - Sinyal filtreleme ve yönetimi  
 - Grafiksel verilerin görselleştirilmesi  
 - Kullanıcı dostu arayüz tasarımı  
-- PCAN donanımı ile entegre çalışma  
+- PCAN donanımı ile entegre çalışma
+
+<div style="display: flex; justify-content: space-between;">
+   <img src="Photo's/7.png" alt="7.png" width="325" />
+   <img src="Photo's/9.png" alt="9.png" width="325" />
+   <img src="Photo's/10.png" alt="10.png" width="325" />
 
 ## Teknik Detaylar
 
