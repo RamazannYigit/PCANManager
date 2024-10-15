@@ -48,3 +48,16 @@ Projenizi kurmak ve çalıştırmak için aşağıdaki adımları izleyin:
    ```bash
    git clone https://github.com/yourusername/PCANDbc.git
    cd PCANDbc
+4. QT Creator'ı açın.
+5. QT Creator içinde "Open Project" seçeneğine tıklayın.
+6. İndirilen proje klasöründe CMakeLists.txt dosyasını seçip açın.
+7. QT Creator, tüm proje dosyalarını yükleyecek ve ekranınıza getirecektir.
+8. Projeyi derleyip çalıştırabilirsiniz.
+
+## Kullanım
+1. **PCAN cihazını araca bağlayın.**
+2. **Uygulamayı başlatın.**
+3. **Uygulama arayüzünde, gerçekleştirmek istediğiniz eyleme karşılık gelen butona veya seçeneğe tıklayın.**
+4. **Seçilen eylem, PCAN cihazı üzerinden araca veri olarak gönderilecektir.**
+
+**Not:** PCAN cihazından gelen veya giden verilerin baytları ve ID'leri, aracınıza veya sisteminize bağlı olarak değişebilir. Bu nedenle, kod içeriğini incelemeniz ve uygulamayı sisteminize uyarlamak için gerekli ayarlamaları yapmanız gerekebilir.
