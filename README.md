@@ -24,9 +24,9 @@ The PCANDbc application provides a sophisticated interface for monitoring and co
 - Seamless integration with PCAN hardware
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="Photo's/7.png" alt="7.png" width="350" />
-   <img src="Photo's/9.png" alt="9.png" width="350" />
-   <img src="Photo's/10.png" alt="10.png" width="350" />
+   <img src="Photo's/7.png" alt="7.png" width="325" />
+   <img src="Photo's/9.png" alt="9.png" width="325" />
+   <img src="Photo's/10.png" alt="10.png" width="325" />
 
 ## Technical Details
 
